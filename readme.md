@@ -1,7 +1,8 @@
-# COMP3211 Coureswork 2
-## Abdul Hasnat
+# News and weather portal
+
+
 ---
-#### Running Automated Scripts
+### Execution -  Automated Scripts
 There exists two modules to this application which require their own execution
 ##### Running the Client
 1. Open Terminal in file route
